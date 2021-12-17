@@ -15,7 +15,7 @@ Julian from Karlsruhe, mechanical engineer, Python enthusiast.
 
 [url_mechkit]: https://github.com/JulianKarlBauer/mechkit
 [url_fiberspot]: https://github.com/JulianKarlBauer/mechkit
-[url_vofotensors]: https://github.com/JulianKarlBauer/planar_fiber_orientation_tensors_2021
+[url_vofotensors]: https://github.com/JulianKarlBauer/fiber_orientation_tensors_2021
 [url_variety_o_f_o_tensors]: https://journals.sagepub.com/doi/full/10.1177/10812865211057602
 
 <!--
