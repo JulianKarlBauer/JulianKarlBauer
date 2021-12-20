@@ -13,7 +13,6 @@ Julian from Karlsruhe, mechanical engineer, Python enthusiast.
 - [fiberspot][url_fiberspot]: Algorithm sketch for the identification of spatial varying local fiber volume content in semi-transparent fiber reinforced composites based on shine-through images
 
 [url_mechkit]: https://github.com/JulianKarlBauer/mechkit
-[url_fiberspot]: https://github.com/JulianKarlBauer/mechkit
 [url_vofotensors]: https://github.com/JulianKarlBauer/fiber_orientation_tensors_2021
 [url_variety_o_f_o_tensors]: https://journals.sagepub.com/doi/full/10.1177/10812865211057602
 [url_fiberspot]: https://github.com/JulianKarlBauer/fiberspot
