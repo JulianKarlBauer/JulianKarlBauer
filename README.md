@@ -4,8 +4,6 @@ Julian from Karlsruhe, mechanical engineer, Python enthusiast.
 - [mechkit][url_mechkit]: Notation, linear elastic materials
 - [vofotensors][url_vofotensors]: Ressources accompanying ["Variety of fiber orientation tensors"][url_variety_o_f_o_tensors]
 
-<!--[fiberspot][url_fiberspot]: Notation, linear elastic materials-->
-
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff)
 ![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2b%2b)
