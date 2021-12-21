@@ -18,6 +18,7 @@ Julian from Karlsruhe, mechanical engineer and Python enthusiast.
 ![Pypi](https://img.shields.io/badge/-PyPI-3775A9?&logo=PyPI&logoColor=fff)
 ![Sphinx](https://img.shields.io/badge/-Sphinx-000000?&?style=plastic)
 ![Zenodo](https://img.shields.io/badge/-Zenodo-1682D4?&logo=Zenodo&logoColor=000)
+![Git](https://img.shields.io/badge/-Git-F05032?&logo=Git&logoColor=fff)
 
 
 
