@@ -7,6 +7,7 @@ Julian from Karlsruhe, mechanical engineer and Python enthusiast.
 
 ### Interests and Skills
 ![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff)
+![Juypter](https://img.shields.io/badge/-Jupyter-F37626?&logo=Jupyter&logoColor=fff)
 ![Sympy](https://img.shields.io/badge/-SymPy-3B5526?&logo=SymPy)
 ![Numpy](https://img.shields.io/badge/-Numpy-013243?&logo=NumPy)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?&logo=pandas)
@@ -14,9 +15,10 @@ Julian from Karlsruhe, mechanical engineer and Python enthusiast.
 ![Latex](https://img.shields.io/badge/-LaTeX-008080?&logo=LaTeX&?style=plastic)
 ![Tikz](https://img.shields.io/badge/-TikZ-000000?&?style=plastic)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?&logo=Markdown)
-![Pypi](https://img.shields.io/badge/-PyPI-ffffff?&logo=PyPI)
+![Pypi](https://img.shields.io/badge/-PyPI-3775A9?&logo=PyPI&logoColor=fff)
 ![Sphinx](https://img.shields.io/badge/-Sphinx-000000?&?style=plastic)
-![Zenodo](https://img.shields.io/badge/-Zenodo-ffffff?&logo=Zenodo)
+![Zenodo](https://img.shields.io/badge/-Zenodo-1682D4?&logo=Zenodo&logoColor=000)
+
 
 
 [url_mechkit]: https://github.com/JulianKarlBauer/mechkit
