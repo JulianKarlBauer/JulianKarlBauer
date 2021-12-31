@@ -2,6 +2,7 @@ Julian from Karlsruhe, mechanical engineer and Python enthusiast.
 
 ### Projects
 - [mechkit][url_mechkit]: Notation, linear elastic materials
+- [mechmean][url_mechmean]: Orientation averaged mean field homogenization
 - [vofotensors][url_vofotensors]: Ressources accompanying the paper ["Variety of fiber orientation tensors"][url_variety_o_f_o_tensors]
 - [fiberspot][url_fiberspot]: Algorithm sketch for the identification of spatial varying local fiber volume content in semi-transparent fiber reinforced composites based on shine-through images
 
@@ -23,6 +24,7 @@ Julian from Karlsruhe, mechanical engineer and Python enthusiast.
 
 
 [url_mechkit]: https://github.com/JulianKarlBauer/mechkit
+[url_mechmean]: https://github.com/JulianKarlBauer/mechmean
 [url_vofotensors]: https://github.com/JulianKarlBauer/fiber_orientation_tensors_2021
 [url_variety_o_f_o_tensors]: https://journals.sagepub.com/doi/full/10.1177/10812865211057602
 [url_fiberspot]: https://github.com/JulianKarlBauer/fiberspot
