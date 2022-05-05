@@ -2,7 +2,7 @@ Julian from Karlsruhe, mechanical engineer and Python enthusiast.
 
 ### Projects
 - [mechkit][url_mechkit]: Convert tensors between common notations of contionuum mechanics - and some other frequently used small tools -
-- [mechmean][url_mechmean]: Orientation averaged mean field homogenization
+- [mechmean][url_mechmean]: Orientation averaging mean field homogenization
 - [planarfibers][url_planarfibers]: Ressources accompanying the paper ["On the dependence of orientation averaging ..."][url_on_the_dependence]
 - [vofotensors][url_vofotensors]: Ressources accompanying the paper ["Variety of fiber orientation tensors"][url_variety_o_f_o_tensors]
 - [fiberspot][url_fiberspot]: Algorithm sketch for the identification of spatial varying local fiber volume content in semi-transparent fiber reinforced composites based on shine-through images
