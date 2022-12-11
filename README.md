@@ -1,4 +1,4 @@
-Julian from Karlsruhe, mechanical engineer and Python enthusiast.
+Mechanical engineer and Python enthusiast.
 
 ### Projects
 - [mechkit][url_mechkit]: Convert tensors between common notations of contionuum mechanics - and some other frequently used small tools -
