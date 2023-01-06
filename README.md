@@ -6,7 +6,8 @@ Mechanical engineer and Python enthusiast.
 - [planarfibers][url_planarfibers]: Ressources accompanying the paper ["On the dependence of orientation averaging..."][url_on_the_dependence]
 - [planarfiberdist][url_planarfiberdist]: Ressources accompanying the paper ["Fiber orientation distributions..."][url_fiber_orientation_distributions]
 - [vofotensors][url_vofotensors]: Ressources accompanying the paper ["Variety of fiber orientation tensors"][url_variety_o_f_o_tensors]
-- [fiberspot][url_fiberspot]: Algorithm sketch for the identification of spatial varying local fiber volume content in semi-transparent fiber reinforced composites based on shine-through images
+
+[comment]: <> (- [fiberspot][url_fiberspot]: Algorithm sketch for the identification of spatial varying local fiber volume content in semi-transparent fiber reinforced composites based on shine-through images)
 
 ### Interests and Skills
 ![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff)
