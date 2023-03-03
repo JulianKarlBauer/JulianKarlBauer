@@ -32,7 +32,7 @@ Mechanical engineer and Python enthusiast.
 [url_on_the_dependence]: https://www.sciencedirect.com/science/article/pii/S0167663622000886
 [url_planarfiberdist]: https://github.com/JulianKarlBauer/planar_fiber_orientation_distributions
 [url_fiber_orientation_distributions]: https://journals.sagepub.com/doi/full/10.1177/10812865221093958
-[url_vofotensors]: https://github.com/JulianKarlBauer/fiber_orientation_tensors_2021
+[url_vofotensors]: https://github.com/JulianKarlBauer/vofotensors
 [url_variety_o_f_o_tensors]: https://journals.sagepub.com/doi/full/10.1177/10812865211057602
 [url_fiberspot]: https://github.com/JulianKarlBauer/fiberspot
 
