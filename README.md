@@ -1,7 +1,7 @@
 Mechanical engineer and Python enthusiast.
 
 ### Projects
-- [mechkit][url_mechkit]: Convert tensors between common notations of contionuum mechanics - and some other frequently used small tools -
+- [mechkit][url_mechkit]: Convert tensors between common notations of contionuum mechanics - toolbox -
 - [mechmean][url_mechmean]: Orientation averaging mean field homogenization
 - [planarfibers][url_planarfibers]: Ressources accompanying the paper ["On the dependence of orientation averaging..."][url_on_the_dependence]
 - [planarfiberdist][url_planarfiberdist]: Ressources accompanying the paper ["Fiber orientation distributions..."][url_fiber_orientation_distributions]
